@@ -19,7 +19,7 @@
         <clobbers target="geofence" />
     </js-module>
 
-    <dependency id="es6-promise-plugin" />
+    <!--<dependency id="es6-promise-plugin" />-->
 
     <!-- android -->
     <platform name="android">
